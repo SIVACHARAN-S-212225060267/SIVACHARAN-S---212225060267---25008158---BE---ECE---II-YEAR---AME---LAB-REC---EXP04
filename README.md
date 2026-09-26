@@ -68,7 +68,7 @@ A magic tee is normally characterised by two quantities:
 
 ## Observation (Measurement of isolation between E and H arms)
 
-*(Include your own table relevant to the experiment.)*
+*(Inserted within the uploaded PDF.)*
 
 ## Precautions
 
@@ -78,4 +78,4 @@ A magic tee is normally characterised by two quantities:
 
 ## Conclusion
 
-*(Write your own.)*
+*Hence, performed the experiment successfully.*
